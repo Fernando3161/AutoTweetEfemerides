@@ -1,0 +1,12 @@
+'''
+Created on 09.05.2021
+
+@author: Fernando Penaherrera (OFFIS/Uni Oldenburg)
+'''
+API_KEY= "iptm5OhsjdyWGiyWzRG7XeWDd"
+API_KEY_SECRET = "YTSydRnXZhAUSzEF6kxQOYIACCRRDQwnOqphwD1uPrf0CWTRAr"
+BEARER_TOKEN = "AAAAAAAAAAAAAAAAAAAAADclWQEAAAAAR5Lw9qrQiFGSt4q4gyUxnXq3VHE%3DhG34x9S0pIKqNZjqcDntWZgqyxl8vG0anHYuhYrL3Fs6AP1ViB"
+ACCES_TOKEN = "580547739-s181MV8Zy6JkYWabzBYzELOxbBV7uNzc09sAV3RH"
+ACCES_TOKEN_SECRET = "5dPKNtQrp3etf6P9gex0lnoZpHO0TmSDjGKq5LAefleMw"
+if __name__ == '__main__':
+    pass
